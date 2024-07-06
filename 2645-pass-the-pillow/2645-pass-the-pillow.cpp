@@ -1,6 +1,7 @@
 class Solution {
 public:
     int passThePillow(int n, int time) {
+        // time = time%n;
         bool last = false;
         int count = 1;
         while(time)
@@ -21,6 +22,8 @@ public:
             {
                 count--;
             }
+            // count++;
+
             time--;
         }
         return count;
