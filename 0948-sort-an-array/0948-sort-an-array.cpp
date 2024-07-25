@@ -19,7 +19,7 @@ public:
         vector<int> temp;
         while(l <= mid && r <= right)
         {
-            if(nums[l] <= nums[r])
+            if(nums[l] < nums[r])
             {
                 temp.push_back(nums[l]);
                 l++;
