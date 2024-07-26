@@ -12,6 +12,7 @@ public:
         merge(nums, left, midi, right);
         return;
     }
+    
     void merge(vector<int>& nums, int left, int mid, int right)
     {
         int l = left;
