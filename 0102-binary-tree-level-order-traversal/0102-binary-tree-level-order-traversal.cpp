@@ -17,27 +17,20 @@ public:
         {
             return ans;
         }
-        queue<TreeNode*> q;
+        queue<TreeNode*>q;
         q.push(root);
-        while(!q.empty())
+        while( !q.empty())
         {
-            int size = q.size();
-            vector<int>level;
-            for(int i = 0; i < size ; i++ )
+            int level_siz = q.size();
+            vector<int> levels;
+            for( int i = 0; i < level_siz ; i++ )
             {
-                TreeNode* node = q.front();
+                if(q.front()->left != nullptr){q.push(q.front()->left);}
+                if(q.front()->right != nullptr){q.push(q.front()->right);}
+                levels.push_back(q.front()->val);
                 q.pop();
-                if(node->left != NULL)
-                {
-                    q.push(node->left);
-                }
-                if(node->right != NULL)
-                {
-                    q.push(node->right);
-                }
-                level.push_back(node->val);
             }
-            ans.push_back(level);
+            ans.push_back(levels);
         }
         return ans;
     }
