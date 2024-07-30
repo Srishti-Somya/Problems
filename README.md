@@ -174,17 +174,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0145-binary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/Srishti-Somya/AtoZ/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0145-binary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/Srishti-Somya/AtoZ/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0145-binary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/Srishti-Somya/AtoZ/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Srishti-Somya/AtoZ/tree/master/1511-count-number-of-teams) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Srishti-Somya/AtoZ/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
