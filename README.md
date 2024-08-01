@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Srishti-Somya/AtoZ/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Srishti-Somya/AtoZ/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2727-number-of-senior-citizens](https://github.com/Srishti-Somya/AtoZ/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srishti-Somya/AtoZ/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Srishti-Somya/AtoZ/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Srishti-Somya/AtoZ/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2727-number-of-senior-citizens](https://github.com/Srishti-Somya/AtoZ/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
