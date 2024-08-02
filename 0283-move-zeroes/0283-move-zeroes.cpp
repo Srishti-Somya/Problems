@@ -8,15 +8,15 @@ public:
          {
             if(nums[j] != 0)
             {
-                nums[i] = nums[j];
+                swap(nums[i], nums[j]);
                 i++;
             }
          }
-        while( i < n)
-        {
-            nums[i] = 0;
-            i++;
-        }
+        // while( i < n)
+        // {
+        //     nums[i] = 0;
+        //     i++;
+        // }
         return;
     }
 };
