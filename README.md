@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Srishti-Somya/AtoZ/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Srishti-Somya/AtoZ/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Srishti-Somya/AtoZ/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Srishti-Somya/AtoZ/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Srishti-Somya/AtoZ/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Srishti-Somya/AtoZ/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Srishti-Somya/AtoZ/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Srishti-Somya/AtoZ/tree/master/2299-merge-nodes-in-between-zeros) |
