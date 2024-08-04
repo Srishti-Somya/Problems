@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srishti-Somya/AtoZ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Srishti-Somya/AtoZ/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Srishti-Somya/AtoZ/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srishti-Somya/AtoZ/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Srishti-Somya/AtoZ/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srishti-Somya/AtoZ/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Srishti-Somya/AtoZ/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srishti-Somya/AtoZ/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srishti-Somya/AtoZ/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Srishti-Somya/AtoZ/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Srishti-Somya/AtoZ/tree/master/1818-maximum-score-from-removing-substrings) |
