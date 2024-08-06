@@ -2,69 +2,24 @@ class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
         int n = nums.size() ;
-        int ans = 0;
-        int sum = 0;
-        unordered_map< int, int > remainder_map;
+        unordered_map< int, int> remainder_map;
         remainder_map[0] = 1;
-        for( int i = 0 ; i < n ; i++)
+        int sum = 0;
+        int ans = 0;
+        for( int i = 0 ; i < n ; i++ )
         {
             sum += nums[i];
-            int remainder;
-            if( sum >= 0)
+            int rem = sum % k;
+            if( rem < 0)
             {
-                remainder = sum % k;
+                rem += k;
             }
-            else
+            if( remainder_map.find(rem) != remainder_map.end())
             {
-                remainder = (sum+ k);
-                while( remainder <= 0){
-                    remainder += k;
-                }
-                remainder = remainder% k;
+                ans += remainder_map[rem];
             }
-            
-            
-                if( remainder_map.find(remainder) != remainder_map.end())
-                {
-                    ans += remainder_map[remainder];
-                    remainder_map[remainder]++;
-                }
-                else
-                {
-                    remainder_map[remainder] = 1;
-                }
-            
-            
+            remainder_map[rem]++;
         }
-        // for( int i = 0 ; i < n ; i++ )
-        // {
-        //     sum = 0;
-        //     for( int j = i ; j < n ; j++ )
-        //     {
-        //         sum += nums[j];
-        //         if(sum % k == 0)
-        //         {
-        //             ans++;
-        //         }
-        //     }
-        // }
-        // while( i <= j)
-        // {
-        //     sum += nums[j];
-        //     if(sum % k == 0)
-        //     {
-        //         ans++;   
-        //     }
-        //     else
-        //     {
-        //         sum -= nums[i];
-        //         i++;
-        //     }
-        //     if(j < n - 1)
-        //     { 
-        //        j++;
-        //     }
-        // }
         return ans;
     }
 };
