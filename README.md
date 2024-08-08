@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Srishti-Somya/AtoZ/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Srishti-Somya/AtoZ/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srishti-Somya/AtoZ/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/Srishti-Somya/AtoZ/tree/master/0338-counting-bits) |
 | [1511-count-number-of-teams](https://github.com/Srishti-Somya/AtoZ/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
