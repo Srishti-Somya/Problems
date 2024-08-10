@@ -11,13 +11,17 @@
  */
 class Solution {
 public:
+    int maxi;
     int maxipath(TreeNode* root)
     {
         if(root == nullptr)
         {
             return 0;
         }
-        return 1 + max(maxipath(root->left),maxipath(root->right));
+        int lh = maxipath(root->left);
+        int rh = maxipath(root->right);
+        maxi = max(maxi, lh+rh);
+        return 1 + max(lh,rh);
     }
     void diameterOfNode(TreeNode* root,vector<int>& dias )
     {
@@ -33,13 +37,14 @@ public:
         return;
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        vector<int>dias;
-        diameterOfNode(root, dias);
-        int maxdiameter = 0;
-        for( int i = 0 ; i < dias.size() ; i++ )
-        {
-            maxdiameter = max(maxdiameter, dias[i]);
-        }
-        return maxdiameter;
+        // vector<int>dias;
+        // diameterOfNode(root, dias);
+        // int maxdiameter = 0;
+        // for( int i = 0 ; i < dias.size() ; i++ )
+        // {
+        //     maxdiameter = max(maxdiameter, dias[i]);
+        // }
+        int height = maxipath(root);
+        return maxi;
     }
 };
