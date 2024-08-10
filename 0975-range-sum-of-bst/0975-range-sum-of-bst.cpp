@@ -26,12 +26,7 @@ public:
         return sum;
     }
     int rangeSumBST(TreeNode* root, int low, int high) {
-        // vector<int> temp = inorder(root);
-        // int sum = 0;
-        // for(int i = 0 ; i < temp.size() ; i++ )
-        // {
-            
-        // }
+        
         return inorder(root,low,high);
     }
 };
