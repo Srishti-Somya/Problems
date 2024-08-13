@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Srishti-Somya/AtoZ/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Srishti-Somya/AtoZ/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Srishti-Somya/AtoZ/tree/master/0075-sort-colors) |
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srishti-Somya/AtoZ/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
