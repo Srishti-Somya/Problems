@@ -10,27 +10,53 @@
  */
 class Solution {
 public:
-    
-    bool palindrome(vector<int>& arr)
+    ListNode* reverse(ListNode* head)
     {
-        int n = arr.size();
-        for( int i = 0; i < n/2; i++ )
+        ListNode* cnode = head, *pnode = nullptr, *nnode = nullptr;
+        while(cnode != nullptr)
         {
-            if(arr[i] != arr[n - i - 1])
+            nnode = cnode->next;
+            cnode->next = pnode;
+            pnode = cnode;
+            cnode = nnode;
+        }
+        return pnode;
+    }
+    bool isPalindrome(ListNode* head) {
+        if( head == nullptr || head->next == nullptr)
+        {
+            return true;
+        }
+        if( head->next->next == nullptr)
+        {
+            if(head->val == head->next->val)
+            {
+                return true;
+            }
+            return false;
+        }
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast->next != nullptr && fast->next->next != nullptr)
+        {
+            slow = slow->next;
+            fast = fast->next;
+            if( fast->next != nullptr )
+            {
+                fast = fast->next;
+            }
+        }
+        ListNode* temp = reverse(slow->next);
+        fast = head;
+        while(temp != nullptr)
+        {
+            if(temp->val != fast->val)
             {
                 return false;
             }
+            temp = temp->next;
+            fast = fast->next;
         }
         return true;
-    }
-    bool isPalindrome(ListNode* head) {
-        vector<int> arr;
-        ListNode* temp = head;
-        while( temp != nullptr)
-        {
-            arr.push_back(temp->val);
-            temp = temp->next;
-        }
-        return palindrome(arr);
     }
 };
