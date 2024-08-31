@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Srishti-Somya/AtoZ/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
+| [1013-fibonacci-number](https://github.com/Srishti-Somya/AtoZ/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srishti-Somya/AtoZ/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Srishti-Somya/AtoZ/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Srishti-Somya/AtoZ/tree/master/1642-water-bottles) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Srishti-Somya/AtoZ/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Srishti-Somya/AtoZ/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Srishti-Somya/AtoZ/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Srishti-Somya/AtoZ/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Srishti-Somya/AtoZ/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/Srishti-Somya/AtoZ/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -379,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Srishti-Somya/AtoZ/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
