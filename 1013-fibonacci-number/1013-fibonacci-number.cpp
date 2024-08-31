@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(vector<int> &dp , int &n)
+    int solve(vector<int> &dp , int n)
     {
         if( n <= 1)
         {
@@ -10,7 +10,7 @@ public:
         {
             return dp[n];
         }
-        return fib(n-1) + fib(n-2);
+        return dp[n] = solve(dp, n-1) + solve(dp, n-2);
     }
 
     int fib(int n) {
