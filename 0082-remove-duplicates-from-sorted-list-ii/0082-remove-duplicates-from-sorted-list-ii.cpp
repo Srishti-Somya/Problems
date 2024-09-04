@@ -16,19 +16,20 @@ public:
             return head;
         }
         ListNode* curr=head;
-       ListNode* temp = new ListNode(0);
-           temp->next = curr;
+        ListNode* temp = new ListNode(0);
+        temp->next = curr;
 
         ListNode* prev=temp;
         
         while(curr!=NULL && curr->next!=NULL){
-     if(curr->next!=NULL && curr->val==curr->next->val){
-        while(curr->next!=NULL && curr->val==curr->next->val){
-                   curr=curr->next;
-               }
-         prev->next=curr->next;
-            }else{
-            prev=prev->next;
+            if(curr->next!=NULL && curr->val==curr->next->val){
+                while(curr->next!=NULL && curr->val==curr->next->val){
+                    curr=curr->next;
+                }
+                prev->next=curr->next;
+            }
+            else{
+                prev=prev->next;
             }
             curr=curr->next;
         }
