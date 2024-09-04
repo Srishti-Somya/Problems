@@ -16,7 +16,7 @@ public:
             return head;
         }
         ListNode* curr=head;
-        ListNode* temp = new ListNode(0);
+        ListNode* temp = new ListNode(-1);
         temp->next = curr;
 
         ListNode* prev=temp;
