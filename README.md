@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/Srishti-Somya/AtoZ/tree/master/0477-total-hamming-distance) |
+| [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Srishti-Somya/AtoZ/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Srishti-Somya/AtoZ/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0948-sort-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Srishti-Somya/AtoZ/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0172-factorial-trailing-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Srishti-Somya/AtoZ/tree/master/0477-total-hamming-distance) |
+| [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Srishti-Somya/AtoZ/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srishti-Somya/AtoZ/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srishti-Somya/AtoZ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Srishti-Somya/AtoZ/tree/master/0392-is-subsequence) |
+| [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0680-valid-palindrome-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srishti-Somya/AtoZ/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Srishti-Somya/AtoZ/tree/master/1720-crawler-log-folder) |
