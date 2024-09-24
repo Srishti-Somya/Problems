@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Srishti-Somya/AtoZ/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/Srishti-Somya/AtoZ/tree/master/2727-number-of-senior-citizens) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Srishti-Somya/AtoZ/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/0014-longest-common-prefix) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
