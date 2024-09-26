@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srishti-Somya/AtoZ/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0179-largest-number) |
+| [0219-contains-duplicate-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Srishti-Somya/AtoZ/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Srishti-Somya/AtoZ/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0142-linked-list-cycle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Srishti-Somya/AtoZ/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1086-divisor-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
