@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Srishti-Somya/AtoZ/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Srishti-Somya/AtoZ/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Srishti-Somya/AtoZ/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srishti-Somya/AtoZ/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srishti-Somya/AtoZ/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Srishti-Somya/AtoZ/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0172-factorial-trailing-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Srishti-Somya/AtoZ/tree/master/0477-total-hamming-distance) |
