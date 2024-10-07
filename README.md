@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Srishti-Somya/AtoZ/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srishti-Somya/AtoZ/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/Srishti-Somya/AtoZ/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Srishti-Somya/AtoZ/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Srishti-Somya/AtoZ/tree/master/0476-number-complement) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Srishti-Somya/AtoZ/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Srishti-Somya/AtoZ/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Srishti-Somya/AtoZ/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srishti-Somya/AtoZ/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/Srishti-Somya/AtoZ/tree/master/0975-range-sum-of-bst) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Srishti-Somya/AtoZ/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Srishti-Somya/AtoZ/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Srishti-Somya/AtoZ/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srishti-Somya/AtoZ/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/Srishti-Somya/AtoZ/tree/master/0975-range-sum-of-bst) |
