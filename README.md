@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Srishti-Somya/AtoZ/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Srishti-Somya/AtoZ/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Srishti-Somya/AtoZ/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0292-nim-game) |
 | [0477-total-hamming-distance](https://github.com/Srishti-Somya/AtoZ/tree/master/0477-total-hamming-distance) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Srishti-Somya/AtoZ/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Srishti-Somya/AtoZ/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Srishti-Somya/AtoZ/tree/master/0338-counting-bits) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0040-combination-sum-ii) |
+| [0089-gray-code](https://github.com/Srishti-Somya/AtoZ/tree/master/0089-gray-code) |
 ## Trie
 |  |
 | ------- |
