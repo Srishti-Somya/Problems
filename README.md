@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Srishti-Somya/AtoZ/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Srishti-Somya/AtoZ/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Srishti-Somya/AtoZ/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Srishti-Somya/AtoZ/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Srishti-Somya/AtoZ/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Srishti-Somya/AtoZ/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Srishti-Somya/AtoZ/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Srishti-Somya/AtoZ/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Srishti-Somya/AtoZ/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Srishti-Somya/AtoZ/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Srishti-Somya/AtoZ/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
