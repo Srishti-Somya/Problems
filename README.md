@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Srishti-Somya/AtoZ/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srishti-Somya/AtoZ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0179-largest-number) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Srishti-Somya/AtoZ/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
