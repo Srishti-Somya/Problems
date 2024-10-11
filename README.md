@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Srishti-Somya/AtoZ/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Srishti-Somya/AtoZ/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Srishti-Somya/AtoZ/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/Srishti-Somya/AtoZ/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Srishti-Somya/AtoZ/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Srishti-Somya/AtoZ/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Srishti-Somya/AtoZ/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Srishti-Somya/AtoZ/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Srishti-Somya/AtoZ/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srishti-Somya/AtoZ/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0948-sort-an-array) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Srishti-Somya/AtoZ/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Merge Sort
 |  |
 | ------- |
