@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Srishti-Somya/AtoZ/tree/master/0890-lemonade-change) |
+| [0941-sort-array-by-parity](https://github.com/Srishti-Somya/AtoZ/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Srishti-Somya/AtoZ/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Srishti-Somya/AtoZ/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Srishti-Somya/AtoZ/tree/master/0941-sort-array-by-parity) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srishti-Somya/AtoZ/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Srishti-Somya/AtoZ/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Srishti-Somya/AtoZ/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/Srishti-Somya/AtoZ/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0948-sort-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Srishti-Somya/AtoZ/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Srishti-Somya/AtoZ/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
