@@ -5,6 +5,8 @@ public:
         int n = s.size();
         int black = 0;
         // int white = 0;
+        // conunt black balls as you go ahead, 
+        // and add the number to the answer
         for( int i = 0; i < n ; i++ )
         {
             if(s[i] == '0')
