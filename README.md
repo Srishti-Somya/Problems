@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Srishti-Somya/AtoZ/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Srishti-Somya/AtoZ/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/Srishti-Somya/AtoZ/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Srishti-Somya/AtoZ/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Srishti-Somya/AtoZ/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0292-nim-game) |
 | [0477-total-hamming-distance](https://github.com/Srishti-Somya/AtoZ/tree/master/0477-total-hamming-distance) |
 | [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/Srishti-Somya/AtoZ/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Srishti-Somya/AtoZ/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1086-divisor-game) |
