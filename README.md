@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/Srishti-Somya/AtoZ/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Srishti-Somya/AtoZ/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Srishti-Somya/AtoZ/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/0415-add-strings) |
 | [0477-total-hamming-distance](https://github.com/Srishti-Somya/AtoZ/tree/master/0477-total-hamming-distance) |
 | [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Srishti-Somya/AtoZ/tree/master/0670-maximum-swap) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/Srishti-Somya/AtoZ/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Srishti-Somya/AtoZ/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0680-valid-palindrome-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Srishti-Somya/AtoZ/tree/master/0920-uncommon-words-from-two-sentences) |
