@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Srishti-Somya/AtoZ/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/Srishti-Somya/AtoZ/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/Srishti-Somya/AtoZ/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Srishti-Somya/AtoZ/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/Srishti-Somya/AtoZ/tree/master/1293-three-consecutive-odds) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Srishti-Somya/AtoZ/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Srishti-Somya/AtoZ/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1297-maximum-number-of-balloons](https://github.com/Srishti-Somya/AtoZ/tree/master/1297-maximum-number-of-balloons) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0680-valid-palindrome-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Srishti-Somya/AtoZ/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Srishti-Somya/AtoZ/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Srishti-Somya/AtoZ/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1297-maximum-number-of-balloons](https://github.com/Srishti-Somya/AtoZ/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srishti-Somya/AtoZ/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
