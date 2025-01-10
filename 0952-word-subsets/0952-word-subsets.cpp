@@ -10,7 +10,6 @@ public:
             {
                 // if()
                 temp[j - 'a']++;
-                
                 mp[j] = max(mp[j], temp[j-'a']);
             }
         }
