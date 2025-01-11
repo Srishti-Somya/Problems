@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1297-maximum-number-of-balloons](https://github.com/Srishti-Somya/AtoZ/tree/master/1297-maximum-number-of-balloons) |
+| [1502-construct-k-palindrome-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Srishti-Somya/AtoZ/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Srishti-Somya/AtoZ/tree/master/1694-make-sum-divisible-by-p) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Srishti-Somya/AtoZ/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Srishti-Somya/AtoZ/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1502-construct-k-palindrome-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Srishti-Somya/AtoZ/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Srishti-Somya/AtoZ/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/Srishti-Somya/AtoZ/tree/master/2089-maximum-matrix-sum) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Srishti-Somya/AtoZ/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1297-maximum-number-of-balloons](https://github.com/Srishti-Somya/AtoZ/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srishti-Somya/AtoZ/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1502-construct-k-palindrome-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Srishti-Somya/AtoZ/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Srishti-Somya/AtoZ/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Srishti-Somya/AtoZ/tree/master/1720-crawler-log-folder) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Srishti-Somya/AtoZ/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0948-sort-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Srishti-Somya/AtoZ/tree/master/1297-maximum-number-of-balloons) |
+| [1502-construct-k-palindrome-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/2163-kth-distinct-string-in-an-array) |
