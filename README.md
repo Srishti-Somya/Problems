@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Srishti-Somya/AtoZ/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srishti-Somya/AtoZ/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0219-contains-duplicate-ii) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Srishti-Somya/AtoZ/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Srishti-Somya/AtoZ/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
