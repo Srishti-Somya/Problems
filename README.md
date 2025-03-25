@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Srishti-Somya/AtoZ/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/Srishti-Somya/Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Srishti-Somya/AtoZ/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0073-set-matrix-zeroes) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Srishti-Somya/Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Srishti-Somya/AtoZ/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0948-sort-an-array) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Srishti-Somya/Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Srishti-Somya/AtoZ/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srishti-Somya/AtoZ/tree/master/0121-best-time-to-buy-and-sell-stock) |
