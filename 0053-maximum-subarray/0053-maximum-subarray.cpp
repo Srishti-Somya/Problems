@@ -5,8 +5,7 @@ public:
         int i = 0, j = 0;
         int n = nums.size();
         int maxi = nums[0];
-
-        while(i < n && j < n)
+        while(i < n)
         {
             sum += nums[i];
             i++;
@@ -14,9 +13,7 @@ public:
             if(sum < 0)
             {
                 sum = 0;
-                j++;
             }
-
         }
         return maxi;
     }
