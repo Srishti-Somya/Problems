@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Srishti-Somya/AtoZ/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Srishti-Somya/Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Srishti-Somya/Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Srishti-Somya/Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Srishti-Somya/AtoZ/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Srishti-Somya/AtoZ/tree/master/0070-climbing-stairs) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Srishti-Somya/AtoZ/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Srishti-Somya/AtoZ/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Srishti-Somya/AtoZ/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Srishti-Somya/Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Srishti-Somya/AtoZ/tree/master/1013-fibonacci-number) |
