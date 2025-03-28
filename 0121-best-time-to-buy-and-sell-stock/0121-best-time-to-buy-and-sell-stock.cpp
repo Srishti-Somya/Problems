@@ -1,22 +1,23 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int minprofitday = INT_MAX;
-        int sellDay = 0;
-        int maxprofit = 0;
-        for( int i = 0; i < prices.size() ; i++ )
+        //building intuition
+        //the minimum selling price day jaise hi update ho, hum usse hi sellday
+        //bana dein, and ab uske baad condition check karein
+        // if sellday ya current price agar bada hai toh update sellday, then 
+        // then calculate cost, and maintain maximum
+
+        int bestBuy = prices[0];
+        int maxProfit = 0;
+
+        for( int i = 1 ; i < prices.size() ; i++ )
         {
-            if(prices[i] < minprofitday)
+            if(prices[i] > bestBuy)
             {
-                minprofitday = prices[i];
-                sellDay = minprofitday;
+                maxProfit = max(maxProfit, prices[i] - bestBuy);
             }
-            if(prices[i] > sellDay)
-            {
-                sellDay = prices[i];
-            }
-            maxprofit = max(sellDay - minprofitday, maxprofit);
+            bestBuy = min(bestBuy, prices[i]);
         }
-        return maxprofit;
+        return maxProfit;
     }
 };
