@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Srishti-Somya/Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/0415-add-strings) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Srishti-Somya/AtoZ/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Srishti-Somya/Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Srishti-Somya/Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Srishti-Somya/AtoZ/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Srishti-Somya/AtoZ/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Srishti-Somya/AtoZ/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Srishti-Somya/Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Srishti-Somya/AtoZ/tree/master/0338-counting-bits) |
