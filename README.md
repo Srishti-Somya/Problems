@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Srishti-Somya/Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Srishti-Somya/Problems/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Recursion
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Srishti-Somya/AtoZ/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Srishti-Somya/Problems/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3451-string-compression-iii](https://github.com/Srishti-Somya/AtoZ/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Srishti-Somya/AtoZ/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Srishti-Somya/Problems/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Srishti-Somya/AtoZ/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
 |  |
