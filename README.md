@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Srishti-Somya/AtoZ/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Srishti-Somya/AtoZ/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Srishti-Somya/AtoZ/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Srishti-Somya/Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Srishti-Somya/AtoZ/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Srishti-Somya/AtoZ/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Srishti-Somya/AtoZ/tree/master/2727-number-of-senior-citizens) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Srishti-Somya/AtoZ/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Srishti-Somya/AtoZ/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Srishti-Somya/Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Srishti-Somya/AtoZ/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Srishti-Somya/AtoZ/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Srishti-Somya/Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0219-contains-duplicate-ii) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Srishti-Somya/Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Srishti-Somya/Problems/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Database
