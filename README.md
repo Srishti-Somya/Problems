@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Srishti-Somya/AtoZ/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srishti-Somya/AtoZ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Srishti-Somya/Problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Srishti-Somya/Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Srishti-Somya/Problems/tree/master/0151-reverse-words-in-a-string) |
