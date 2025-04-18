@@ -1,26 +1,21 @@
 class Solution {
 public:
-    void solve(int n, string &ans){
-        if(n == 1){return;}
-        int i = 0;
-        string temp = "";
-        while (i < ans.size()) {
-            char currentChar = ans[i];
+    string countAndSay(int n) {
+        if( n == 1){
+            return "1";
+        }
+
+        string say = countAndSay(n-1);
+        string result = "";
+        for( int i = 0 ; i < say.size() ; i++ ){
             int count = 1;
-            while (i + 1 < ans.size() && ans[i + 1] == currentChar) {
+            char ch = say[i];
+            while(i < say.size()-1 && say[i] == say[i+1]){
                 count++;
                 i++;
             }
-            temp += to_string(count) + currentChar;
-            i++;
+            result += to_string(count) + string(1, ch);
         }
-        ans = temp;
-        solve(n - 1, ans);
-    }
-    string countAndSay(int n) {
-        if(n == 1){return "1";}
-        string ans = "1";
-        solve(n, ans);
-        return ans;
+        return result;
     }
 };
