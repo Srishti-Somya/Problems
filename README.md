@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Srishti-Somya/AtoZ/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Srishti-Somya/Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Srishti-Somya/Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Srishti-Somya/Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Srishti-Somya/Problems/tree/master/0049-group-anagrams) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Srishti-Somya/Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Srishti-Somya/Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Srishti-Somya/Problems/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Srishti-Somya/AtoZ/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0268-missing-number) |
