@@ -25,3 +25,26 @@ public:
     
     }
 };
+// class Solution {
+// public:
+//     bool validPalindrome(string s) {
+//         int n = s.size();
+//         int skip = 0;
+//         if( n == 1 || n == 2) return true;
+//         int st = 0;
+//         int en = s.size() - 1;
+//         while(st <= en){
+//             if(s[st] != s[en]){
+//                 if(skip != 0) return false;
+//                 if(s[st+1] == s[en]) st++;
+//                 else if (s[st] == s[en-1]) en--;
+//                 else return false;
+//                 skip = 1;
+//                 continue;
+//             }
+//             st++;
+//             en--;
+//         }
+//         return true;
+//     }
+// };
