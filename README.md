@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Srishti-Somya/AtoZ/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Srishti-Somya/Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Srishti-Somya/Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1500-count-largest-group](https://github.com/Srishti-Somya/Problems/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Srishti-Somya/AtoZ/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srishti-Somya/AtoZ/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Srishti-Somya/AtoZ/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1500-count-largest-group](https://github.com/Srishti-Somya/Problems/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Srishti-Somya/AtoZ/tree/master/1642-water-bottles) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Srishti-Somya/Problems/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1951-find-the-winner-of-the-circular-game) |
