@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srishti-Somya/AtoZ/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Srishti-Somya/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Srishti-Somya/Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Srishti-Somya/Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0073-set-matrix-zeroes) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Srishti-Somya/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Srishti-Somya/Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Srishti-Somya/AtoZ/tree/master/0020-valid-parentheses) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Srishti-Somya/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0219-contains-duplicate-ii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Srishti-Somya/Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Srishti-Somya/Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
