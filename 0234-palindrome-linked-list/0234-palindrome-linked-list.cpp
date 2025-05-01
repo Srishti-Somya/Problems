@@ -10,13 +10,17 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head)
-    {
-        ListNode *cnode, *pnode, *nnode;
-        cnode = head;
-        pnode = nullptr;
-        while(cnode != nullptr)
-        {
+    ListNode* getMiddle(ListNode* head){
+        ListNode* slow = head, *fast = head;
+        while(fast && fast->next){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
+    }
+    ListNode* reverseLL(ListNode* head){
+        ListNode* pnode = nullptr, *cnode = head, *nnode;
+        while(cnode != nullptr){
             nnode = cnode->next;
             cnode->next = pnode;
             pnode = cnode;
@@ -25,47 +29,12 @@ public:
         return pnode;
     }
     bool isPalindrome(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-        if(head == nullptr)
-        {
-            return false;
-        }
-        else if(head->next == nullptr)
-        {
-            return true;
-        }
-        else if(head->next->next == nullptr)
-        {
-            if(head->val == head->next->val)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
-        while(fast->next != nullptr && fast->next->next != nullptr)
-        {
-            slow = slow->next;
-            fast = fast->next;
-            if(fast->next != nullptr)
-            {
-                fast = fast->next;
-            }
-        }
-        // slow = slow->next;
-        ListNode* temp2 = reverseList(slow->next);
-        ListNode* temp = head;
-        while(temp2 != nullptr)
-        {
-            if(temp->val != temp2->val)
-            {
-                return false;
-            }
-            temp = temp->next;
-            temp2 = temp2->next;
+        ListNode* middle_node = getMiddle(head);
+        ListNode* reversed_node = reverseLL(middle_node);
+        while(head && reversed_node && head != reversed_node){
+            if(head->val != reversed_node->val) return false;
+            head = head->next;
+            reversed_node = reversed_node->next;
         }
         return true;
     }
