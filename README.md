@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/Srishti-Somya/AtoZ/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Srishti-Somya/Problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Srishti-Somya/Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Srishti-Somya/Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Srishti-Somya/AtoZ/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Srishti-Somya/AtoZ/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Srishti-Somya/Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srishti-Somya/Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Srishti-Somya/Problems/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Srishti-Somya/Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srishti-Somya/AtoZ/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Srishti-Somya/Problems/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Srishti-Somya/AtoZ/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
