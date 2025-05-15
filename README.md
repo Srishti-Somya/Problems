@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Srishti-Somya/AtoZ/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Srishti-Somya/Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Srishti-Somya/Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Srishti-Somya/Problems/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Srishti-Somya/Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srishti-Somya/AtoZ/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Srishti-Somya/AtoZ/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Srishti-Somya/Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Srishti-Somya/Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Srishti-Somya/AtoZ/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0142-linked-list-cycle-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Srishti-Somya/AtoZ/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Srishti-Somya/Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Srishti-Somya/AtoZ/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Srishti-Somya/Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Srishti-Somya/AtoZ/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0179-largest-number) |
