@@ -1,54 +1,38 @@
 class Solution {
 public:
     string addStrings(string num1, string num2) {
-        reverse(num1.begin(),num1.end());
-        reverse(num2.begin(),num2.end());
-        int n1 = num1.size();
-        int m1 = num2.size();
-        int flag = 0;
-        if(n1 < m1)
-        {
-            flag = 1;
-        }
-        else
-        {
-            flag = 0;
-        }
-        string temp = "";
         int carry = 0;
-        int i = 0;
-        int n = min(num1.size(),num2.size());
-        for(i = 0; i < n; i++ )
-        {
-            int value = carry + (num1[i]-'0') + (num2[i]-'0');
-            carry = value/10;
-            value = value%10;
-            temp.push_back('0'+value);
+        string res = "";
+        int n = num1.size() - 1;
+        int m = num2.size() - 1;
+        while(n >= 0 && m >= 0){
+            int rem1 = num1[n] - '0';
+            int rem2 = num2[m] - '0';
+            int sum = rem1 + rem2 + carry;
+            carry = sum/10;
+            sum = sum%10;
+            res.push_back(sum +'0');
+            n--;
+            m--;
         }
-        int m = max(num1.size() , num2.size());
-        while(i < m)
-        {
-            if(flag == 1)
-            {
-                int value = carry + (num2[i]-'0');
-                carry = value/10;
-                value = value%10;
-                temp.push_back('0'+value);
-            }
-            else
-            {
-                int value = carry + (num1[i]-'0');
-                carry = value/10;
-                value = value%10;
-                temp.push_back('0'+value);
-            }
-            i++;
+        while(n>=0){
+            int rem1 = num1[n] - '0';
+            int sum = rem1 + carry;
+            carry = sum/10;
+            sum = sum%10;
+            res.push_back(sum+'0');
+            n--;
         }
-        if(carry)
-        {
-            temp.push_back('0'+carry);
+        while(m>=0){
+            int rem1 = num2[m] - '0';
+            int sum = rem1 + carry;
+            carry = sum/10;
+            sum = sum%10;
+            res.push_back(sum+'0');
+            m--;
         }
-        reverse(temp.begin(), temp.end());
-        return temp;
+        if(carry != 0) res.push_back(carry + '0');
+        reverse(res.begin(), res.end());
+        return res;
     }
 };
