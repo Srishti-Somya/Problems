@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/Srishti-Somya/Problems/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Srishti-Somya/Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Srishti-Somya/Problems/tree/master/0455-assign-cookies) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Srishti-Somya/Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srishti-Somya/Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srishti-Somya/Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Srishti-Somya/Problems/tree/master/0907-koko-eating-bananas) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/Srishti-Somya/Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Srishti-Somya/Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Srishti-Somya/AtoZ/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Srishti-Somya/Problems/tree/master/0605-can-place-flowers) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Srishti-Somya/AtoZ/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Srishti-Somya/AtoZ/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Srishti-Somya/Problems/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/Srishti-Somya/AtoZ/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1086-divisor-game) |
 | [1511-count-number-of-teams](https://github.com/Srishti-Somya/AtoZ/tree/master/1511-count-number-of-teams) |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Srishti-Somya/Problems/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Srishti-Somya/Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Srishti-Somya/Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Srishti-Somya/Problems/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1016-subarray-sums-divisible-by-k) |
