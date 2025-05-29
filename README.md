@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Srishti-Somya/AtoZ/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Srishti-Somya/Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Srishti-Somya/Problems/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Srishti-Somya/Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srishti-Somya/Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Srishti-Somya/Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Srishti-Somya/Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Srishti-Somya/Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Srishti-Somya/Problems/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Srishti-Somya/Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Srishti-Somya/Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Srishti-Somya/AtoZ/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Srishti-Somya/Problems/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Srishti-Somya/Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Srishti-Somya/AtoZ/tree/master/0941-sort-array-by-parity) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Somya/Problems/tree/master/0410-split-array-largest-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Srishti-Somya/Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Srishti-Somya/Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srishti-Somya/Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Srishti-Somya/Problems/tree/master/0907-koko-eating-bananas) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Srishti-Somya/Problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Srishti-Somya/Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Srishti-Somya/Problems/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Srishti-Somya/Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Srishti-Somya/AtoZ/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
