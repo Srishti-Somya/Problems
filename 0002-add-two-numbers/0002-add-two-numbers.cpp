@@ -11,17 +11,10 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        if(l1 == nullptr && l2 == nullptr)
-        {
-            return NULL;
-        }else if(l1 == NULL)
-        {
-            return l2;
-        }else if(l2 == NULL)
-        {
-            return l1;
+        if(!l1 && !l2){ return NULL;
+        }else if(!l1){ return l2;
+        }else if(!l2 ){ return l1;
         }
-
         int value = l1->val + l2->val;
         int carry = value/10;
 
@@ -29,9 +22,9 @@ public:
         ListNode* temp = newlist;
         l1 = l1->next;
         l2 = l2 -> next;
-        value = 0;
-        while(l1 != NULL || l2 != NULL)
+        while(l1 || l2 )
         {   
+            value = 0;
             if(l1!= nullptr)
             {
                 value += l1->val;
@@ -47,7 +40,6 @@ public:
             ListNode* newnode = new ListNode(value%10);
             temp->next = newnode;
             temp = temp -> next;
-            value = 0;
         }
         if(carry != 0)
         {
