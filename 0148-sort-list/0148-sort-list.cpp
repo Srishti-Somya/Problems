@@ -11,25 +11,20 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        map<int, int>mp;
+        vector<int>ans;
         ListNode* temp = head;
-        while( temp != nullptr )
-        {
-            mp[temp->val]++;
+        while(temp){
+            ans.push_back(temp->val);
             temp = temp->next;
         }
-        ListNode* newlist = new ListNode(INT_MIN);
-        ListNode* curr = newlist;
-        for(auto a = mp.begin() ; a != mp.end() ; )
-        {
-            curr->next = new ListNode(a->first);
-            a->second = a->second - 1;
-            if(a->second == 0)
-            {
-                a++;
-            }
-            curr = curr->next;
+        sort(ans.begin(), ans.end());
+        ListNode* temp2 = head;
+        int i = 0;
+        while(temp2){
+            temp2->val = ans[i];
+            temp2 = temp2->next;
+            i++;
         }
-        return newlist->next;
+        return head;
     }
 };
