@@ -11,47 +11,31 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head == nullptr || k == 0 || head->next == nullptr)
-        {
-            return head;
-        }
-        int n = 0;
+        if(k == 0||head == nullptr||head->next == nullptr) return head;
         ListNode* temp = head;
-        while(temp != nullptr)
-        {
+        int n = 0;
+        while(temp){
             temp = temp->next;
             n++;
         }
-        
-        k = k % n;
-        if(head == nullptr || k == 0 || head->next == nullptr)
-        {
-            return head;
+        if(k == n) return head;
+        if(n == 0) return nullptr;
+        k = k%n;
+        if(k == 0) return head;
+        int diff = n - k;
+        ListNode *returnhead = head, *prev = head;
+
+        while(diff && returnhead != nullptr){
+            prev = returnhead;
+            returnhead = returnhead->next;
+            diff--;
         }
-        ListNode *slow = head;
-        ListNode *fast = head;
-        while( k-- && fast != nullptr)
-        {
-            fast = fast->next;
+        prev->next = nullptr;
+        ListNode* temp2 = returnhead;
+        while(temp2 && temp2->next != nullptr){
+            temp2 = temp2->next;
         }
-        if(fast == nullptr)
-        {
-            return slow;
-        }
-        while(fast->next != nullptr)
-        {
-            slow = slow->next;
-            fast = fast -> next;
-        }
-        ListNode* newHead = slow->next;
-        slow -> next = nullptr;
-        ListNode* temp2 = newHead; 
-        while(temp2 != nullptr && temp2->next != nullptr )
-        {
-            temp2 = temp2 -> next;
-        }
-        if(temp2 != nullptr)
-        temp2->next = head;
-        return newHead;
+        if(temp2)temp2->next = head;
+        return returnhead;
     }
 };
