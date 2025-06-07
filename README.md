@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Srishti-Somya/AtoZ/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Srishti-Somya/Problems/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Srishti-Somya/Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Srishti-Somya/Problems/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srishti-Somya/Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Srishti-Somya/Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/Srishti-Somya/Problems/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Srishti-Somya/AtoZ/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Srishti-Somya/AtoZ/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Srishti-Somya/Problems/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Srishti-Somya/Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Srishti-Somya/Problems/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Srishti-Somya/Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Srishti-Somya/AtoZ/tree/master/0957-minimum-add-to-make-parentheses-valid) |
