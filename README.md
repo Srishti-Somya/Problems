@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Srishti-Somya/Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Somya/Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Srishti-Somya/Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Srishti-Somya/AtoZ/tree/master/0561-array-partition) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Srishti-Somya/AtoZ/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Srishti-Somya/Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Srishti-Somya/AtoZ/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Srishti-Somya/Problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Srishti-Somya/Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Srishti-Somya/Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Srishti-Somya/Problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Srishti-Somya/Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Srishti-Somya/Problems/tree/master/0739-daily-temperatures) |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srishti-Somya/Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Srishti-Somya/Problems/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Srishti-Somya/Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Srishti-Somya/Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Srishti-Somya/Problems/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Srishti-Somya/Problems/tree/master/0943-sum-of-subarray-minimums) |
