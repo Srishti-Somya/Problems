@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Srishti-Somya/Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Srishti-Somya/Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srishti-Somya/Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Srishti-Somya/Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Srishti-Somya/Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Srishti-Somya/Problems/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Srishti-Somya/Problems/tree/master/0119-pascals-triangle-ii) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srishti-Somya/AtoZ/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srishti-Somya/Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Srishti-Somya/Problems/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srishti-Somya/AtoZ/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Srishti-Somya/Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Srishti-Somya/AtoZ/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Srishti-Somya/Problems/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Srishti-Somya/Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srishti-Somya/AtoZ/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Srishti-Somya/Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Srishti-Somya/AtoZ/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Srishti-Somya/Problems/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Srishti-Somya/Problems/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
 | [1876-map-of-highest-peak](https://github.com/Srishti-Somya/AtoZ/tree/master/1876-map-of-highest-peak) |
@@ -850,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srishti-Somya/Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Srishti-Somya/Problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Srishti-Somya/Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Srishti-Somya/Problems/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Srishti-Somya/Problems/tree/master/0943-sum-of-subarray-minimums) |
