@@ -16,9 +16,9 @@ public:
         if(root == nullptr){
             return ans;
         }
-        ans = inorderTraversal(root->left);
+        inorderTraversal(root->left);
         ans.push_back(root->val);
-        ans = inorderTraversal(root->right);
+        inorderTraversal(root->right);
         return ans;
     }
 };
