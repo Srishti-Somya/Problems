@@ -28,8 +28,8 @@ public:
         int left = height(root->left);
         int right = height(root->right);
         ans = max(ans, left+right);
-        int dial = diameterOfBinaryTree(root->left);
+        int dial = max(ans, diameterOfBinaryTree(root->left));
         int diar = diameterOfBinaryTree(root->right);
-        return ans;
+        return max(dial,diar);
     }
 };
