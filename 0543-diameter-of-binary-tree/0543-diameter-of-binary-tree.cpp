@@ -25,11 +25,9 @@ public:
             return 0;
         }
         // int temp = max(height(root->left), height;
-        int left = height(root->left);
-        int right = height(root->right);
-        ans = max(ans, left+right);
-        int dial = max(ans, diameterOfBinaryTree(root->left));
+        int dial = diameterOfBinaryTree(root->left);
         int diar = diameterOfBinaryTree(root->right);
-        return max(dial,diar);
+        int ans = height(root->left)+height(root->right);
+        return max(max(ans, dial), diar);
     }
 };
