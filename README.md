@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Srishti-Somya/Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Srishti-Somya/Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Srishti-Somya/Problems/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Srishti-Somya/AtoZ/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Srishti-Somya/Problems/tree/master/0389-find-the-difference) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Srishti-Somya/Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Srishti-Somya/Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Srishti-Somya/Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Srishti-Somya/AtoZ/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Srishti-Somya/Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Srishti-Somya/AtoZ/tree/master/0392-is-subsequence) |
