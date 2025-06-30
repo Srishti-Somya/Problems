@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Srishti-Somya/AtoZ/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Srishti-Somya/AtoZ/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/Srishti-Somya/Problems/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/Srishti-Somya/AtoZ/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Srishti-Somya/Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Srishti-Somya/Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Srishti-Somya/AtoZ/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Srishti-Somya/AtoZ/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Srishti-Somya/Problems/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Srishti-Somya/Problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Srishti-Somya/Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Srishti-Somya/AtoZ/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1876-map-of-highest-peak](https://github.com/Srishti-Somya/AtoZ/tree/master/1876-map-of-highest-peak) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Srishti-Somya/Problems/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
+| [1036-rotting-oranges](https://github.com/Srishti-Somya/Problems/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/Srishti-Somya/AtoZ/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/Srishti-Somya/AtoZ/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Srishti-Somya/AtoZ/tree/master/2145-grid-game) |
