@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Srishti-Somya/Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Srishti-Somya/Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Srishti-Somya/Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Srishti-Somya/Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Srishti-Somya/AtoZ/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Srishti-Somya/AtoZ/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Srishti-Somya/Problems/tree/master/0069-sqrtx) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Srishti-Somya/Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Srishti-Somya/AtoZ/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Srishti-Somya/Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Srishti-Somya/AtoZ/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Srishti-Somya/Problems/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Srishti-Somya/Problems/tree/master/0119-pascals-triangle-ii) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Srishti-Somya/Problems/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Srishti-Somya/Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Function
 |  |
