@@ -10,21 +10,24 @@
  */
 class Solution {
 public:
+    ListNode* reverseList(ListNode* head){
+        ListNode *cnode = head, *pnode = nullptr, *nnode = nullptr;
+        while(cnode != nullptr){
+            nnode = cnode->next;
+            cnode->next = pnode;
+            pnode = cnode;
+            cnode = nnode;
+        }
+        return pnode;
+    }
     int getDecimalValue(ListNode* head) {
-        vector<int> arr;
-        while(head != nullptr)
-        {
-            arr.push_back(head->val);
-            head = head -> next;
+        ListNode* temp = reverseList(head);
+        int ans = 0, multiplier = 1;
+        while(temp){
+            ans += temp->val*multiplier;
+            temp = temp->next;
+            multiplier *= 2;
         }
-        int n = arr.size() - 1;
-        int num = 0;
-        int mul = 1;
-        for( int i = n ; i >= 0 ; i-- )
-        {
-            num += arr[i]*mul;
-            mul *= 2;
-        }
-        return num;
+        return ans;
     }
 };
