@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Srishti-Somya/Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Srishti-Somya/AtoZ/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Srishti-Somya/AtoZ/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Srishti-Somya/Problems/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Srishti-Somya/Problems/tree/master/0733-flood-fill) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Srishti-Somya/Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0904-leaf-similar-trees](https://github.com/Srishti-Somya/Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Srishti-Somya/AtoZ/tree/master/0975-range-sum-of-bst) |
 | [1073-number-of-enclaves](https://github.com/Srishti-Somya/Problems/tree/master/1073-number-of-enclaves) |
@@ -992,4 +994,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Srishti-Somya/Problems/tree/master/0572-subtree-of-another-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Srishti-Somya/Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
