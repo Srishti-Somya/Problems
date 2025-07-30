@@ -24,15 +24,11 @@ public:
             }
             temp = temp->next;
         }
-        while(l1){
+        if(l1){
             temp->next = l1;
-            l1 = l1->next;
-            temp = temp->next;
         }
-        while(l2){
+        if(l2){
             temp->next = l2;
-            l2 = l2->next;
-            temp = temp->next;
         }
         return mergedlist->next;
     }
