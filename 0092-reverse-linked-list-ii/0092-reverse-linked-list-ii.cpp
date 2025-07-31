@@ -10,50 +10,31 @@
  */
 class Solution {
 public:
-    ListNode* reverselist(ListNode* head)
-    {
-        ListNode *pnode = nullptr, *cnode = head, *nnode = nullptr;
-        while(cnode != nullptr)
-        {
+    ListNode* reverseBetween(ListNode* head, int left, int right) {
+        if(left == right) return head;
+        if(head == nullptr || head->next == nullptr) return head;
+        ListNode* rightnode = head, *leftnode = head, *prevnode = head, *nextnode = head;
+        int i = 1;
+        while(i < left){
+            prevnode = leftnode;
+            leftnode = leftnode->next;
+            i++;
+        }
+        rightnode = leftnode;
+        while(i < right){
+            rightnode = rightnode->next;
+            i++;
+        }
+        nextnode = rightnode->next;
+        ListNode *cnode = leftnode, *pnode = nextnode, *nnode = nullptr;
+        while(cnode != nextnode){
             nnode = cnode->next;
             cnode->next = pnode;
-
             pnode = cnode;
             cnode = nnode;
         }
-        return pnode;
-    }
-    ListNode* reverseBetween(ListNode* head, int left, int right) {
-        ListNode* newlist = new ListNode(-600);
-        ListNode* list = newlist;
-        int count = 1;
-        ListNode* temp = head;
-        while(temp != nullptr)
-        {
-            if(count == left)
-            {
-                ListNode* reverse = new ListNode(temp->val);
-                temp = temp->next;
-                count++;
-                ListNode* curr = reverse;
-                while(count <= right && temp != nullptr)
-                {
-                    curr->next = new ListNode(temp->val);
-                    curr = curr->next;
-                    temp = temp->next;
-                    count++;
-                }
-                list->next = reverselist(reverse);
-                while(list->next != nullptr)list = list->next;
-            }
-            else
-            {
-                list->next = new ListNode(temp->val);
-                list = list->next;
-                temp = temp->next;
-                count++;
-            }
-        }
-        return newlist->next;
+        if(left != 1) prevnode->next = pnode;
+        else head = pnode;
+        return head;
     }
 };
