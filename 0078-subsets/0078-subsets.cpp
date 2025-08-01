@@ -1,28 +1,19 @@
 class Solution {
 public:
-    void solve(vector<int>& nums, int i , vector<int>& temp)
-    {   
-        if(i >= nums.size())
-        {
-            // for(int j = 0 ; j < temp.size() ; j++ ){
-            //     cout<<temp[j]<<" ";
-            // }
-            cout<<endl;
+    void solve(vector<vector<int>>& ans, vector<int>& temp, vector<int>& nums, int idx){
+        if(idx == nums.size()){
             ans.push_back(temp);
             return;
         }
-        temp.push_back(nums[i]);//take ith element and explore
-        solve(nums, i+1 , temp);
+        temp.push_back(nums[idx]);
+        solve(ans, temp, nums, idx+1);
         temp.pop_back();
-        solve(nums, i+1 , temp);
-        return;
+        solve(ans, temp, nums, idx+1);
     }
-    
-    vector<vector<int>>ans;
     vector<vector<int>> subsets(vector<int>& nums) {
-        
+        vector<vector<int>>ans;
         vector<int>temp;
-        solve(nums,0,temp);   
+        solve(ans, temp, nums, 0);
         return ans;
     }
 };
