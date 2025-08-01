@@ -10,75 +10,70 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head)
-    {
-        ListNode* cnode = head;
-        ListNode *pnode = nullptr;
-        ListNode* nnode = nullptr;
-        while( cnode != nullptr)
-        {
+    ListNode* reverseList(ListNode* head){
+        ListNode *cnode = head, *pnode = nullptr, *nnode = nullptr;
+        while(cnode != nullptr){
             nnode = cnode->next;
             cnode->next = pnode;
-
             pnode = cnode;
             cnode = nnode;
         }
         return pnode;
     }
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* temp = head;
-        ListNode* newlist = new ListNode(-1);
-        ListNode* list = newlist;
-        int copy_k = k;
-        while(temp != nullptr)
-        {
-            ListNode* groups = new ListNode(-1);
-            ListNode* curr = groups;
-            ListNode* temp2 = temp;
-            while(temp!= nullptr && copy_k)
-            {
-                if(temp != nullptr)
-                {
-                    curr->next = new ListNode(temp->val);
-                    temp = temp->next;
-                    curr = curr->next;
-                }
-                copy_k--;
-            }
-            if(copy_k == 0)
-            {
-                list->next = reverseList(groups->next);
-                list = list->next;
-                while(list->next != nullptr)
-                {
-                    list = list->next;
-                }
-                copy_k = k;
-            }
-            else
-            {
-                temp = temp2;
-                break;
-                // if(temp2 != nullptr)
-                // list->next = new ListNode(temp2->val);
-                // list = list->next;
-                // temp = temp2;
-                // temp = temp->next;
-                // while(temp != nullptr && list->next != nullptr)
-                // {
-                //     list->next = new ListNode(temp->val);
-                //     list = list->next;
-                //     temp = temp->next;
-                //     // list = list->next;
-                // }
-            }
-        }
-        while(temp != nullptr)
-        {
-            list->next = new ListNode(temp->val);
-            list = list->next;
+        ListNode *temp = head;
+        int cnt = 0;
+        //check for k nodes
+        while(cnt < k){
+            if(temp == nullptr) return head;
             temp = temp->next;
+            cnt++;
         }
-        return newlist->next;
-    }
+        // if exist only then reach here
+        //call for recursion for rest of the LL
+        ListNode *pnode = reverseKGroup(temp, k);
+        //reverse the current group
+        temp = head, cnt = 0;
+        while(cnt < k){
+            ListNode *nnode = temp->next;
+            temp->next = pnode;
+            pnode = temp;
+            temp = nnode;
+            cnt++;
+        }
+        return pnode;
+
+
+
+
+
+
+
+        // ListNode* temp = head, *kthnode = head, *prevnode = nullptr, *nextnode = nullptr;
+        // int value = k-1;
+        // while(temp != nullptr){
+        //     while(value){
+        //         if(kthnode)kthnode = kthnode->next;
+        //         value--;
+        //     }
+        //     if(!kthnode){
+        //         prevnode->next = temp;
+        //         break;
+        //     }
+        //     nextnode = kthnode->next;
+        //     kthnode->next = nullptr;
+        //     kthnode = reverseList(temp);
+        //     if(temp == head){
+        //         head = kthnode;
+        //     }else{
+        //         prevnode->next = kthnode;
+        //     }
+
+        //     prevnode = temp;
+        //     temp = nextnode;
+        //     kthnode = temp;
+        //     value = k-1;
+        // }
+        // return head;
+    }   
 };
