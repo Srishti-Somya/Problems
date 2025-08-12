@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Srishti-Somya/Problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Srishti-Somya/AtoZ/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/Srishti-Somya/AtoZ/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/Srishti-Somya/Problems/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Srishti-Somya/Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Srishti-Somya/Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Srishti-Somya/Problems/tree/master/0735-asteroid-collision) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Srishti-Somya/AtoZ/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Srishti-Somya/AtoZ/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Srishti-Somya/Problems/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Srishti-Somya/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Srishti-Somya/Problems/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Srishti-Somya/Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0904-leaf-similar-trees](https://github.com/Srishti-Somya/Problems/tree/master/0904-leaf-similar-trees) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Srishti-Somya/Problems/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Srishti-Somya/AtoZ/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Srishti-Somya/AtoZ/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Srishti-Somya/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Srishti-Somya/Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Srishti-Somya/Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Srishti-Somya/Problems/tree/master/1073-number-of-enclaves) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Srishti-Somya/Problems/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Srishti-Somya/Problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Srishti-Somya/Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Srishti-Somya/Problems/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/Srishti-Somya/AtoZ/tree/master/0870-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/Srishti-Somya/Problems/tree/master/1036-rotting-oranges) |
@@ -949,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Srishti-Somya/Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Srishti-Somya/Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Srishti-Somya/AtoZ/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Srishti-Somya/Problems/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/Srishti-Somya/Problems/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
