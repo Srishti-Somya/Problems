@@ -1,27 +1,32 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        set<vector<int>>st;
         sort(nums.begin(), nums.end());
-        for(int i = 0 ; i < nums.size() ; i++ ){
+        vector<vector<int>>ans;
+        for(int i = 0; i < nums.size() ; i++ ){
+            if(i > 0 && nums[i] == nums[i-1]) continue;
             for(int j = i + 1 ; j < nums.size() ; j++ ){
-                set<long long>mp;
-                for(int k = j+1 ; k < nums.size() ; k++ ){
-                    long long left_sum = nums[i];
-                    left_sum += nums[j];
-                    left_sum += nums[k];
-                    left_sum = target - left_sum;
-                    if(mp.find(left_sum) != mp.end()){
-                       vector<int> temp = {nums[i], nums[j], nums[k], (int)left_sum};
-                    //    sort(temp.begin(), temp.end());
-                        st.insert(temp);
+                if(j > i+1 && nums[j] == nums[j-1])continue;
+                int k = j + 1;
+                int l = nums.size() - 1;
+                while(k < l){
+                    long long sum = nums[i]+nums[j];
+                    sum += nums[k];
+                    sum += nums[l];
+                    if(sum < target){
+                        k++;
+                    }else if(sum > target){
+                        l--;
+                    }else{
+                        ans.push_back({nums[i], nums[j], nums[k], nums[l]});
+                        k++;
+                        l--;
+                        while(k < l && nums[k-1] == nums[k])k++;
+                        while(k < l && nums[l+1] == nums[l])l--;
                     }
-                    mp.insert(nums[k]);
                 }
             }
         }
-        vector<vector<int>>ans(st.begin(), st.end());
         return ans;
-        
     }
 };
