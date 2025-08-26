@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srishti-Somya/Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Srishti-Somya/AtoZ/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Srishti-Somya/Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Srishti-Somya/AtoZ/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Srishti-Somya/Problems/tree/master/0410-split-array-largest-sum) |
@@ -1045,4 +1046,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Srishti-Somya/Problems/tree/master/3790-fruits-into-baskets-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Srishti-Somya/Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
