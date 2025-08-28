@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Srishti-Somya/AtoZ/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Srishti-Somya/AtoZ/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Srishti-Somya/AtoZ/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Srishti-Somya/Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srishti-Somya/AtoZ/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Srishti-Somya/AtoZ/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Srishti-Somya/Problems/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/Srishti-Somya/Problems/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Srishti-Somya/Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Srishti-Somya/Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srishti-Somya/AtoZ/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Srishti-Somya/Problems/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Srishti-Somya/AtoZ/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
