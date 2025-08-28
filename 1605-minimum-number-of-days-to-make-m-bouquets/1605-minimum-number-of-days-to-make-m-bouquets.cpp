@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool isValid(vector<int>& bloomDay, int m, int k, int mid){
-        int n = bloomDay.size();
-        vector<bool>check(n, false);
+        // int n = bloomDay.size();
+        // vector<bool>check(n, false);
         int cnt = 0, temp = 0;
         for(int i = 0 ; i < bloomDay.size() ; i++ ){
             if(bloomDay[i] <= mid) {
-                check[i] = true;
+                // check[i] = true;
                 temp++;
                 if(temp == k){cnt++; temp = 0;}
             }
