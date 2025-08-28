@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Srishti-Somya/Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Srishti-Somya/Problems/tree/master/1073-number-of-enclaves) |
+| [1185-find-in-mountain-array](https://github.com/Srishti-Somya/Problems/tree/master/1185-find-in-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/Srishti-Somya/AtoZ/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Srishti-Somya/Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Srishti-Somya/Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Srishti-Somya/Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Srishti-Somya/Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Srishti-Somya/Problems/tree/master/0907-koko-eating-bananas) |
+| [1185-find-in-mountain-array](https://github.com/Srishti-Somya/Problems/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Srishti-Somya/Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srishti-Somya/AtoZ/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Srishti-Somya/Problems/tree/master/1646-kth-missing-positive-number) |
@@ -1054,4 +1056,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Srishti-Somya/Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Srishti-Somya/Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/Srishti-Somya/Problems/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
