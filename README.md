@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srishti-Somya/AtoZ/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Srishti-Somya/Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Srishti-Somya/AtoZ/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2047-find-a-peak-element-ii](https://github.com/Srishti-Somya/Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Srishti-Somya/AtoZ/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/Srishti-Somya/AtoZ/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Srishti-Somya/AtoZ/tree/master/2145-grid-game) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srishti-Somya/AtoZ/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Srishti-Somya/Problems/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Srishti-Somya/AtoZ/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2047-find-a-peak-element-ii](https://github.com/Srishti-Somya/Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Srishti-Somya/Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/Srishti-Somya/Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Srishti-Somya/Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Srishti-Somya/Problems/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Srishti-Somya/AtoZ/tree/master/1876-map-of-highest-peak) |
+| [2047-find-a-peak-element-ii](https://github.com/Srishti-Somya/Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/Srishti-Somya/AtoZ/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Srishti-Somya/AtoZ/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Srishti-Somya/AtoZ/tree/master/2685-first-completely-painted-row-or-column) |
