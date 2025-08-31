@@ -6,14 +6,15 @@ public:
         unordered_map<char, int>mp;
         while(end < n){
             if(mp.find(s[end]) != mp.end()){
-                while(st <= mp[s[end]]){
+                // while(st <= mp[s[end]]){
                     mp.erase(s[st]);
                     st++;
-                }
-            }
+                // }
+            }else{
             mp[s[end]] = end;
             len = max(len, end - st + 1);
             end++;
+            }
         }
         return len;
 
