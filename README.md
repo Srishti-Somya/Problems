@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Srishti-Somya/AtoZ/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Srishti-Somya/AtoZ/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Srishti-Somya/AtoZ/tree/master/1511-count-number-of-teams) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srishti-Somya/Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Srishti-Somya/AtoZ/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Srishti-Somya/Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srishti-Somya/AtoZ/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Srishti-Somya/AtoZ/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Srishti-Somya/AtoZ/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Srishti-Somya/AtoZ/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srishti-Somya/Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/Srishti-Somya/AtoZ/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Srishti-Somya/AtoZ/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Srishti-Somya/AtoZ/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srishti-Somya/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/Srishti-Somya/Problems/tree/master/0940-fruit-into-baskets) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Srishti-Somya/Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srishti-Somya/Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Srishti-Somya/Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Srishti-Somya/Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
