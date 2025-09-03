@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Srishti-Somya/AtoZ/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Srishti-Somya/Problems/tree/master/0389-find-the-difference) |
+| [0433-minimum-genetic-mutation](https://github.com/Srishti-Somya/Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srishti-Somya/AtoZ/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Srishti-Somya/Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Srishti-Somya/Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Srishti-Somya/AtoZ/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Srishti-Somya/Problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Srishti-Somya/AtoZ/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/Srishti-Somya/Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/Srishti-Somya/Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Srishti-Somya/AtoZ/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0680-valid-palindrome-ii) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Srishti-Somya/Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Srishti-Somya/Problems/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Srishti-Somya/AtoZ/tree/master/0407-trapping-rain-water-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/Srishti-Somya/Problems/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Srishti-Somya/Problems/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Srishti-Somya/AtoZ/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Srishti-Somya/AtoZ/tree/master/0547-number-of-provinces) |
