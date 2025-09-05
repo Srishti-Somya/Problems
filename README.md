@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Srishti-Somya/Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Srishti-Somya/Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Srishti-Somya/Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Srishti-Somya/Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Srishti-Somya/Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Srishti-Somya/Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Srishti-Somya/AtoZ/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Srishti-Somya/AtoZ/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Srishti-Somya/Problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Srishti-Somya/AtoZ/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Srishti-Somya/Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Srishti-Somya/Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Srishti-Somya/AtoZ/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Srishti-Somya/Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Srishti-Somya/AtoZ/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Srishti-Somya/AtoZ/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/Srishti-Somya/AtoZ/tree/master/2155-find-missing-observations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Srishti-Somya/Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Srishti-Somya/Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Srishti-Somya/AtoZ/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Srishti-Somya/AtoZ/tree/master/2645-pass-the-pillow) |
