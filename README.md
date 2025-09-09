@@ -1043,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Srishti-Somya/Problems/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/Srishti-Somya/Problems/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Srishti-Somya/Problems/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/Srishti-Somya/Problems/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Srishti-Somya/Problems/tree/master/1161-project-employees-i) |
